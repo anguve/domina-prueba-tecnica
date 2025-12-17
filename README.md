@@ -56,12 +56,6 @@ npm run dev
 ```bash
 cd frontend/users-mf
 npm install
-npm run dev
-```
-
-```bash
-cd frontend/users-mf
-npm install
 npm run build
 npm run preview
 ```
