@@ -1,0 +1,18 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.home-title {
+  margin: 0;
+  font-size: 24px;
+  color: #111827;
+}
+
+.users-container {
+  background-color: white;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
